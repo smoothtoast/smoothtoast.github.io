@@ -1,10 +1,12 @@
-body{
-	background-color: #202020;
-	overflow: hidden;
+.c {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+	font-size: 80px;
+	text-align: center;
+	color: #fff;
 }
-
-.wrapper { 
-	position: fixed;
-	bottom: 0;
-	right: 0;
+.e {
+	font-size: 15px;
 }
